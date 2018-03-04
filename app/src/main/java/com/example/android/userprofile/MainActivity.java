@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         picture.setImageResource(R.drawable.picture);
 
         TextView name = (TextView) findViewById(R.id.name);
-        name.setText(String.valueOf("Iwona"));
+        name.setText(String.valueOf("Anna"));
 
         name.setTextSize(30);
 
